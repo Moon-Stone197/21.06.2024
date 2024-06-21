@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+}
+
+a {
+    font-size: 35px;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+li {
+    list-style-type: none;
+}
+
+.header {
+    padding: 20px 0;
+    background-color: rgb(25, 129, 17);
+}
+
+.ul {
+    display: flex;
+    column-gap: 30px;
+}
